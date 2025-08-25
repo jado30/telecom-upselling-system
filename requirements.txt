@@ -1,0 +1,50 @@
+# Django Framework
+Django==5.2.5
+djangorestframework==3.16.1
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.7.0
+
+# Database
+PyMySQL==1.1.1
+
+# Machine Learning & Data Science
+numpy==2.2.6
+pandas==2.3.1
+scikit-learn==1.7.1
+scipy==1.16.1
+xgboost==3.0.0
+catboost==1.2.8
+
+# Data Visualization
+matplotlib==3.10.5
+seaborn==0.13.2
+plotly==6.3.0
+
+# Dimensionality Reduction & Clustering
+umap-learn==0.5.9.post2
+pynndescent==0.5.13
+
+# Time Series & Forecasting
+statsmodels==0.14.5
+
+# Task Queue & Background Jobs
+celery==5.5.3
+redis==6.4.0
+
+# HTTP & API
+requests==2.32.5
+fastapi==0.116.1
+uvicorn==0.35.0
+
+# Utilities
+python-dotenv==1.1.1
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tqdm==4.67.1
+
+# Development & Debugging
+ipython==9.4.0
+jupyter-core==5.8.1
+
+# Windows Specific (if needed)
+pywin32==311; sys_platform == "win32"
