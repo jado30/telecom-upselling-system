@@ -1,4 +1,14 @@
-
-# System files
-.vscode
-
+# Ignore large build and library files
+*.dll
+*.pyd
+*.so
+*.dylib
+__pycache__/
+*.pyc
+*.pyo
+*.pdb
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
