@@ -66,10 +66,11 @@ The project is designed as a **hybrid ML system** combining multiple components:
 ## 📸 Demo & Visuals
 
 ### System Architecture
-![Architecture Diagram](images/system-architecture.png)
+![Architecture Diagram]([pics/SystemArcheticture.jpg](https://github.com/jado30/telecom-upselling-system/blob/main/pics/System%20Archeticture.jpg))
 
 ### Model Output Example
-![Model Results](images/model-results.png)
+![Model Results]([images/model-results.png](https://github.com/jado30/telecom-upselling-system/blob/main/pics/model%20output%201.png))
+![Model Results]([https://github.com/jado30/telecom-upselling-system/blob/main/pics/model%20output%202.png))
 
 *(Add screenshots or graphs here — e.g., clustering visualization, XGBoost output, or dashboard preview.)*
 
