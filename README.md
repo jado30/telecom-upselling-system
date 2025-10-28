@@ -68,6 +68,9 @@ The project is designed as a **hybrid ML system** combining multiple components:
 ### System Architecture
 ![Architecture Diagram](https://github.com/jado30/telecom-upselling-system/blob/main/pics/System%20Archeticture.jpg)
 
+### clustering Example
+![Model Results](https://github.com/jado30/telecom-upselling-system/blob/main/pics/clustering.png)
+
 ### Model Output Example
 ![Model Results](https://github.com/jado30/telecom-upselling-system/blob/main/pics/model%20output%201.png)
 ![Model Results](https://github.com/jado30/telecom-upselling-system/blob/main/pics/model%20output%202.png)
