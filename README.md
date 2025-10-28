@@ -63,7 +63,7 @@ The project is designed as a **hybrid ML system** combining multiple components:
 
 ---
 
-## 📸 Demo & Visuals
+## 📸 Pics & Visuals
 
 ### System Architecture
 ![Architecture Diagram](https://github.com/jado30/telecom-upselling-system/blob/main/pics/System%20Archeticture.jpg)
