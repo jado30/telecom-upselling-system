@@ -1,14 +1,12 @@
-# Ignore large build and library files
+# Ignore Python cache and libraries
+gradProject/Lib/
+__pycache__/
 *.dll
 *.pyd
 *.so
 *.dylib
-__pycache__/
-*.pyc
-*.pyo
-*.pdb
 *.zip
-*.rar
 *.tar
-*.gz
+*.rar
 *.7z
+*.gz
