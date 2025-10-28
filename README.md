@@ -1,5 +1,3 @@
-# telecom-upselling-system
-A machine learning–based telecom sales enhancement system that analyzes customer behavior to recommend personalized package upgrades and improve retention.
 # 📈 Telecom Upselling System
 
 A data-driven **sales enhancement system** for telecom companies that analyzes customer usage patterns to **recommend personalized packages** and boost overall revenue.
